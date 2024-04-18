@@ -1,0 +1,101 @@
+.uno{
+    width: 768px;
+    height: 1050px;
+    border: 1px solid black;
+}
+.dos{
+    width: 450px;
+    height: 45px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.tres{
+    width: 732px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.cuatro{
+    width: 350px;
+    height: 180px;
+    border: 1px solid black;
+    margin: 5px 1rem;
+}
+.cinco{
+    width: 350px;
+    height: 180px;
+    border: 1px solid black;
+    margin: 5px 5px;
+}
+.seis{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.siete{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.ocho{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.nueve{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.diez{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.once{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.doce{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.trece{
+    width: 350px;
+    height: 180px;
+    border: 1px solid black;
+    margin: 5px 1rem;
+}
+.catorce{
+    width: 350px;
+    height: 180px;
+    border: 1px solid black;
+    margin: 5px 5px;
+}
+.quince{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.diesiseis{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.diesisiete{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.diesiocho{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
+.diesinueve{
+    width: 350px;
+    border: 1px solid black;
+    margin: 1rem 1rem;
+}
